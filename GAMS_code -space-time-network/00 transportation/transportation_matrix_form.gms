@@ -10,6 +10,7 @@ $Title  A Transportation Problem (TRNSPORT,SEQ=1)
  3 1
 /;
 
+
  Parameters b(j)
 /
 1 7
